@@ -1,2 +1,2 @@
-# test_js 123
+# test_js
 Practicing Java Script.
